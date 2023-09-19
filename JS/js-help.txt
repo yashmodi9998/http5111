@@ -1,0 +1,33 @@
+JavaScript IMP topic :
+
+==================================week 1===============================================
+1.Datatypes & operators:
+		types of script
+		COMMENTS
+		DEBUGGING
+		diff between == and === 
+		
+		
+==================================week 2===============================================
+2.Control Structure:
+		1.if
+		2.if-else
+		3.if-elseif- else
+		4.switch
+			default
+			break
+		
+3.Tags:	1.alert
+		2.console
+		3.confirm
+				returns true if the user clicked "OK", otherwise false.
+		
+		4.prompt 	
+				is used if you want the user to input a value.
+				When a prompt box pops up, the user will have to click either "OK" or "Cancel"				to proceed.	
+				if(click on ok)=>returns ok or if (cancel)=> returns null 
+5.String methods
+		1.toUpperCase / toLowercase
+		2.
+		
+
