@@ -30,4 +30,16 @@ JavaScript IMP topic :
 		1.toUpperCase / toLowercase
 		2.
 		
+		
+==================================week 3===============================================
+Arrays	
+
+Arrays Methods:
+		shift(): 
+			method removes the element at the zeroth index and shifts 
+			the values at consecutive indexes down, 
+			then returns the removed value
+		unshift():
+			is used to add one or more elements to the 
+			beginning of the given array
 
